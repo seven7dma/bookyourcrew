@@ -1,0 +1,557 @@
+TBookYourCrew
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.pch BookYourCrew/BookYourCrew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew normal i386
+cCpResource chatpops2.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops2.png
+cCpResource navbar.jpg DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/navbar.jpg
+cCpResource barbutton.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/barbutton.png
+cCpResource chatthumb.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatthumb.png
+cCompileStoryboard /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPad.storyboard
+cCpResource send.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/send.png
+cCpResource toolbarbutton.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbutton.png
+cCpResource toolbarbg.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbg.png
+cCpResource clock.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/clock.png
+cCpResource chatpops.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops.png
+cCompileStoryboard /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/en.lproj/InfoPlist.strings BookYourCrew/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Images.xcassets
+cProcessInfoPlistFile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Info.plist /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Info.plist
+cGenerateDSYMFile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew
+cTouch /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843D50000000000445870
+t1383613397
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843D8000000000088C680
+t1383613400
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843DD0000000001DB9910
+t1383613405
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m
+c000000005373B5000000000000000939
+t1400091904
+s2361
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m
+c00000000537369230000000000000207
+t1400072483
+s519
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPad.storyboard
+c00000000537369230000000000000717
+t1400072483
+s1815
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPhone.storyboard
+c000000005373C16F0000000000008D12
+t1400095087
+s36114
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Info.plist
+c00000000537369230000000000000630
+t1400072483
+s1584
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Prefix.pch
+c00000000537369230000000000000158
+t1400072483
+s344
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Images.xcassets
+c000000005378DAE00000000000000088
+t1400429280
+s136
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/en.lproj/InfoPlist.strings
+c0000000053736923000000000000002D
+t1400072483
+s45
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m
+c00000000537369230000000000000163
+t1400072483
+s355
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.o
+t1400432028
+s67456
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.o
+t1400432028
+s41168
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BookYourCrew.LinkFileList
+c000000005378E599000000000000026B
+t1400432025
+s619
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.o
+t1400432028
+s3744
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/assetcatalog_dependencies.txt
+t1400432035
+s550
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/assetcatalog_generated_info.plist
+t1400432035
+s525
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.pch
+t1400432028
+s109396
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app
+t1400432038
+s612
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM
+t2
+s0
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Base.lproj/Main_iPad.storyboardc
+t1400432036
+s170
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Base.lproj/Main_iPhone.storyboardc
+t1400432038
+s306
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew
+t1400432029
+s17748
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Info.plist
+t1400432038
+s1292
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/PkgInfo
+t1400432038
+s8
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/barbutton.png
+t1400432029
+s1949
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops.png
+t1400432029
+s2368
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops2.png
+t1400432029
+s1535
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatthumb.png
+t1400432029
+s2660
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/clock.png
+t1400432029
+s1548
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/en.lproj/InfoPlist.strings
+t1400432029
+s42
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/navbar.jpg
+t1400432029
+s5581
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/send.png
+t1400432029
+s3854
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbg.png
+t1400432029
+s1250
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbutton.png
+t1400432029
+s2082
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/barbutton.png
+c000000005373B1E7000000000000079D
+t1400091111
+s1949
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/chatpops.png
+c000000005373BDDA0000000000000940
+t1400094170
+s2368
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/chatpops2.png
+c000000005373BF6E00000000000005FF
+t1400094574
+s1535
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/chatthumb.png
+c000000005373BC850000000000000A64
+t1400093829
+s2660
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/clock.png
+c000000005373BE21000000000000060C
+t1400094241
+s1548
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/navbar.jpg
+c000000005373ADE100000000000015CD
+t1400090081
+s5581
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/send.png
+c000000005373C08A0000000000000F0E
+t1400094858
+s3854
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/toolbarbg.png
+c000000005373B4B200000000000004E2
+t1400091826
+s1250
+
+N/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/toolbarbutton.png
+c000000005373B5520000000000000822
+t1400091986
+s2082
+
+CBuild AST from /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m
+r0
+
+CBuild AST from /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m
+r0
+
+CBuild AST from /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf7cc1e191d29b941^670a31191d29b941^---0#1#1#--18"Check dependencies36"C5FE5CE2-110B-4C16-8825-E86DB53A2C5B-
+
+CCompileAssetCatalog /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Images.xcassets
+s422124829.680531
+e422124835.632639
+r1
+xCompileAssetCatalog
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/LaunchImage-700-568h@2x.png
+o/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Assets.car
+o/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CompileAssetCatalog DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app BookYourCrew/Images.xcassets127"CompileAssetCatalog DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app BookYourCrew/Images.xcassetsed47ae1d1d29b941^6ff4a1231d29b941^-578"/* com.apple.actool.compilation-results *//Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/LaunchImage-700-568h@2x.png/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Assets.car/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Images.xcassets/0000000000000000^1440"CompileAssetCatalog DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app BookYourCrew/Images.xcassets    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Images.xcassets36"89347EFC-12BA-4055-A67F-CC728888CC93-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422124828.732855
+e422124828.998291
+r1
+xCompileC
+xDerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.o
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m250"CompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.o BookYourCrew/BYC_AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerffcdbb1c1d29b941^2d95ff1c1d29b941^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m0000000000000000^4535"CompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.o BookYourCrew/BYC_AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-generated-files.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-own-target-headers.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-all-target-headers.hmap -iquote /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-project-headers.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/DerivedSources/i386 -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/DerivedSources -F/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator -include /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch -MMD -MT dependencies -MF /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.d --serialize-diagnostics /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.dia -c /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.m -o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.o36"56361761-86E5-4195-AFF4-7FCAA2D9848C-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422124828.732784
+e422124828.998224
+r1
+xCompileC
+xDerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.o
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m256"CompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.o BookYourCrew/BYC_ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerddcdbb1c1d29b941^478fff1c1d29b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m0000000000000000^4553"CompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.o BookYourCrew/BYC_ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-generated-files.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-own-target-headers.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-all-target-headers.hmap -iquote /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-project-headers.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/DerivedSources/i386 -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/DerivedSources -F/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator -include /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch -MMD -MT dependencies -MF /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.d --serialize-diagnostics /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.dia -c /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_ViewController.m -o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.o36"E04E220B-338F-4393-B549-430159B9945C-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422124828.732794
+e422124828.997896
+r1
+xCompileC
+xDerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.o
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BYC_AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m228"CompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.o BookYourCrew/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8bc1bb1c1d29b941^0378ff1c1d29b941^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m0000000000000000^4469"CompileC DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.o BookYourCrew/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-generated-files.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-own-target-headers.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-all-target-headers.hmap -iquote /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-project-headers.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/DerivedSources/i386 -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/DerivedSources -F/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator -include /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch -MMD -MT dependencies -MF /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.dia -c /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/main.m -o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.o36"914C52D9-D677-4147-B56A-34F570AB9D93-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCompileStoryboard /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPad.storyboard
+s422124829.666106
+e422124836.246880
+r1
+xCompileStoryboard
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard BookYourCrew/Base.lproj/Main_iPad.storyboard62"CompileStoryboard BookYourCrew/Base.lproj/Main_iPad.storyboard529daa1d1d29b941^fd333f241d29b941^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPad.storyboard0000000000000000^979"CompileStoryboard BookYourCrew/Base.lproj/Main_iPad.storyboard    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Base.lproj/Main_iPad.storyboardc /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPad.storyboard36"ED79F1EE-4640-4E81-9DB0-614CBBEF100C-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCompileStoryboard /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPhone.storyboard
+s422124829.673632
+e422124838.270767
+r1
+xCompileStoryboard
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard BookYourCrew/Base.lproj/Main_iPhone.storyboard64"CompileStoryboard BookYourCrew/Base.lproj/Main_iPhone.storyboard2b85ac1d1d29b941^725145261d29b941^---0#0#1#-19%DVTDocumentLocation2@130"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPhone.storyboard0000000000000000^985"CompileStoryboard BookYourCrew/Base.lproj/Main_iPhone.storyboard    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Base.lproj/Main_iPhone.storyboardc /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/Base.lproj/Main_iPhone.storyboard36"126183DE-8654-4BF3-A377-A92D956536BE-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCopyStringsFile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/en.lproj/InfoPlist.strings BookYourCrew/en.lproj/InfoPlist.strings
+s422124829.680199
+e422124829.715048
+r1
+xCopyStringsFile
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/en.lproj/InfoPlist.strings
+xBookYourCrew/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy BookYourCrew/en.lproj/InfoPlist.strings161"CopyStringsFile DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/en.lproj/InfoPlist.strings BookYourCrew/en.lproj/InfoPlist.strings1e35ae1d1d29b941^8620b71d1d29b941^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/en.lproj/InfoPlist.strings0000000000000000^720"CopyStringsFile DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/en.lproj/InfoPlist.strings BookYourCrew/en.lproj/InfoPlist.strings    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/en.lproj -- BookYourCrew/en.lproj/InfoPlist.strings36"5CCF77D7-5AE6-4E9D-B907-B72E43EA26D3-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource barbutton.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/barbutton.png
+s422124829.600062
+e422124829.664931
+r1
+xCpResource
+xbarbutton.png
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/barbutton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/barbutton.png117"CpResource barbutton.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/barbutton.png3c88a11d1d29b941^a149aa1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@176"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/barbutton.png0038c8b2ddffdf42^727"CpResource barbutton.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/barbutton.png    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/barbutton.png /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"8E1F10D5-906D-417A-86A0-5B90C8036381-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource chatpops.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops.png
+s422124829.671645
+e422124829.678809
+r1
+xCpResource
+xchatpops.png
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops.png115"CpResource chatpops.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops.png2a02ac1d1d29b941^cec7ad1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@175"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops.png0038c8b2ddffdf42^724"CpResource chatpops.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops.png    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/chatpops.png /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"F2C1A4D9-30CD-4DE4-832E-41E53E6F4706-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource chatpops2.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops2.png
+s422124829.600042
+e422124829.664717
+r1
+xCpResource
+xchatpops2.png
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops2.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops2.png117"CpResource chatpops2.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops2.png2b88a11d1d29b941^7b2faa1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@176"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops2.png0038c8b2ddffdf42^727"CpResource chatpops2.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatpops2.png    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/chatpops2.png /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"468A256E-5C48-43EB-BF02-ED959CB2FDB6-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource chatthumb.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatthumb.png
+s422124829.600276
+e422124829.664785
+r1
+xCpResource
+xchatthumb.png
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatthumb.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatthumb.png117"CpResource chatthumb.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatthumb.png8786a11d1d29b941^1d3daa1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@176"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatthumb.png0038c8b2ddffdf42^727"CpResource chatthumb.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/chatthumb.png    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/chatthumb.png /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"26375E63-01EF-4E1D-BB90-0806E637F93A-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource clock.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/clock.png
+s422124829.671228
+e422124829.678810
+r1
+xCpResource
+xclock.png
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/clock.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/clock.png109"CpResource clock.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/clock.png3aebab1d1d29b941^85ccad1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@172"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/clock.png0038c8b2ddffdf42^715"CpResource clock.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/clock.png    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/clock.png /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"0A81B58A-9817-43D4-9F01-AD00748AB5E3-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource navbar.jpg DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/navbar.jpg
+s422124829.600046
+e422124829.665065
+r1
+xCpResource
+xnavbar.jpg
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/navbar.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/navbar.jpg111"CpResource navbar.jpg DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/navbar.jpgdb86a11d1d29b941^484eaa1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@173"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/navbar.jpg0038c8b2ddffdf42^718"CpResource navbar.jpg DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/navbar.jpg    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/navbar.jpg /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"917064B6-C0CC-456A-A507-088E0F69A0F7-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource send.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/send.png
+s422124829.666421
+e422124829.670008
+r1
+xCpResource
+xsend.png
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/send.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/send.png107"CpResource send.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/send.png43acaa1d1d29b941^2288ab1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@171"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/send.png0038c8b2ddffdf42^712"CpResource send.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/send.png    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/send.png /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"FA009CC8-36CF-4062-9B7A-773168FD4464-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource toolbarbg.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbg.png
+s422124829.667170
+e422124829.672328
+r1
+xCpResource
+xtoolbarbg.png
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbg.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbg.png117"CpResource toolbarbg.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbg.png88daaa1d1d29b941^791eac1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@176"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbg.png0038c8b2ddffdf42^727"CpResource toolbarbg.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbg.png    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/toolbarbg.png /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"DAD9AE7E-0366-4D3A-AE93-F4E4E3FB8B97-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CCpResource toolbarbutton.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbutton.png
+s422124829.666647
+e422124829.670943
+r1
+xCpResource
+xtoolbarbutton.png
+xDerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbutton.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbutton.png125"CpResource toolbarbutton.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbutton.png2cb9aa1d1d29b941^61c3ab1d1d29b941^---0#0#1#-19%DVTDocumentLocation2@180"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbutton.png0038c8b2ddffdf42^739"CpResource toolbarbutton.png DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/toolbarbutton.png    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/toolbarbutton.png /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app36"D9D7FC6B-9EEC-4CE1-9ABA-F508C81DE9E4-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CGenerateDSYMFile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew
+s422124838.340961
+e422124838.439794
+r1
+xGenerateDSYMFile
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Generate /Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM192"GenerateDSYMFile DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew166c57261d29b941^dd9670261d29b941^---0#0#1#-19%DVTDocumentLocation2@167"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM0038c8b2ddffdf42^876"GenerateDSYMFile DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew -o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app.dSYM36"BA7D7358-2D8F-4930-890C-969FF8FD2947-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CLd /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew normal i386
+s422124829.008279
+e422124829.591225
+r1
+xLd
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew
+xnormal
+xi386
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BookYourCrew.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_ViewController.o
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/main.o
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BYC_AppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Link /Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew106"Ld DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew normal i3862637021d1d29b941^895d971d1d29b941^---0#0#1#--1758"Ld DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew normal i386    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator -F/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator -filelist /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BookYourCrew.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/Objects-normal/i386/BookYourCrew_dependency_info.dat -o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/BookYourCrew36"7933B50A-4F0E-4E7A-8CD5-CB7CEB2160C9-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CProcessInfoPlistFile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Info.plist /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Info.plist
+s422124838.279582
+e422124838.331773
+r1
+xProcessInfoPlistFile
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Info.plist
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Process /Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Info.plist147"ProcessInfoPlistFile DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Info.plist BookYourCrew/BookYourCrew-Info.plistceaa47261d29b941^831355261d29b941^---0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Info.plist0000000000000000^1168"ProcessInfoPlistFile DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Info.plist BookYourCrew/BookYourCrew-Info.plist    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Info.plist -genpkginfo /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/assetcatalog_generated_info.plist -o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app/Info.plist36"BC5950A2-4BFB-42C8-87B5-CCDFC9B2E802-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CProcessPCH /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.pch BookYourCrew/BookYourCrew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422124825.195856
+e422124828.723224
+r1
+xProcessPCH
+x/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.pch
+xBookYourCrew/BookYourCrew-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile BookYourCrew/BookYourCrew-Prefix.pch256"ProcessPCH DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.pch BookYourCrew/BookYourCrew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler014f32191d29b941^4226b91c1d29b941^---0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Users/Amrita/Aditi%20Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Prefix.pch0000000000000000^4331"ProcessPCH DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.pch BookYourCrew/BookYourCrew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Amrita/Aditi Projects/BookYourCrew/SourceCode/BookYourCrew"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-generated-files.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-own-target-headers.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-all-target-headers.hmap -iquote /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/BookYourCrew-project-headers.hmap -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/DerivedSources/i386 -I/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/BookYourCrew.build/Debug-iphonesimulator/BookYourCrew.build/DerivedSources -F/Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.d -c /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/BookYourCrew/BookYourCrew-Prefix.pch -o /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Intermediates/PrecompiledHeaders/BookYourCrew-Prefix-eomzxyrohfxmrocwtxyrmlmvzyxo/BookYourCrew-Prefix.pch.pch36"6D0A8C85-85D3-4DD7-A28B-FB18580D476B-
+b797A01CB-62DB-4368-8EC6-205898F42260
+
+CProcessPCH /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Index/PrecompiledHeaders/BookYourCrew-Prefix-cvxwhqdtzkjfnqbjilkxvvjhgcvy_ast/BookYourCrew-Prefix.pch.pch BookYourCrew/BookYourCrew-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Amrita/Aditi\ Projects/BookYourCrew/SourceCode/BookYourCrew/DerivedData/BookYourCrew/Build/Products/Debug-iphonesimulator/BookYourCrew.app
+r0
+
